@@ -10,3 +10,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+learn_java_oop1/.idea
+learn_java_oop1/out
+learn_java/.idea
+learn_java/out
+
+**/.idea
+**/.out
